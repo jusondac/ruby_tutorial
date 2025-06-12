@@ -1,6 +1,6 @@
 # Chapter 15: Modules - Code Libraries 📚
 
-[← Previous: Inheritance](./14-inheritance.md) | [Next: File Operations →](./16-file-operations.md)
+[← Previous: Inheritance](./14-inheritance.md) | [Next: File Operations →](../03-advanced/16-file-operations.md)
 
 ## What Are Modules? 🧩
 
@@ -675,4 +675,4 @@ Utils.helper_method
 
 Remember: Modules are like toolboxes that any class can borrow from! 🧰✨
 
-[← Previous: Inheritance](./14-inheritance.md) | [Next: File Operations →](./16-file-operations.md)
+[← Previous: Inheritance](./14-inheritance.md) | [Next: File Operations →](../03-advanced/16-file-operations.md)

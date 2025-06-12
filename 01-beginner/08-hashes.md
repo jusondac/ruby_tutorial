@@ -589,7 +589,7 @@ Hashes are perfect for storing related data and building lookup tables!
 
 Now let's learn about methods - how to create your own reusable commands in Ruby!
 
-**[← Previous: Arrays - Lists of Everything](./07-arrays.md)** | **[Next: Methods - Your Own Commands →](./09-methods.md)**
+**[← Previous: Arrays - Lists of Everything](./07-arrays.md)** | **[Next: Methods - Your Own Commands →](../02-intermediate/09-methods.md)**
 
 ---
 

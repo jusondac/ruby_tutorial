@@ -343,7 +343,7 @@ You've probably been using metaprogramming without realizing it!
 
 Now that you understand the basics of metaprogramming, let's dive deeper into dynamic methods!
 
-**[← Previous: Testing Your Code](./20-testing.md)** | **[Next: Dynamic Methods →](./22-dynamic-methods.md)**
+**[← Previous: Testing Your Code](../03-advanced/20-testing.md)** | **[Next: Dynamic Methods →](./22-dynamic-methods.md)**
 
 ---
 

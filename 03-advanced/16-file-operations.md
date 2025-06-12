@@ -1,6 +1,6 @@
 # Chapter 16: File Operations - Reading and Writing Files 📁
 
-[← Previous: Modules](./15-modules.md) | [Next: Error Handling →](./17-error-handling.md)
+[← Previous: Modules](../02-intermediate/15-modules.md) | [Next: Error Handling →](./17-error-handling.md)
 
 ## What Are Files? 📄
 
@@ -675,4 +675,4 @@ Dir.foreach(".") { |f| puts f }     # List directory contents
 
 Remember: Files are like magical containers that keep your data safe even when your program sleeps! 📁✨
 
-[← Previous: Modules](./15-modules.md) | [Next: Error Handling →](./17-error-handling.md)
+[← Previous: Modules](../02-intermediate/15-modules.md) | [Next: Error Handling →](./17-error-handling.md)

@@ -491,7 +491,7 @@ Methods are the building blocks of clean, organized code!
 
 Now let's learn about conditionals - how to make your programs make decisions!
 
-**[← Previous: Hashes - Smart Dictionaries](./08-hashes.md)** | **[Next: Conditionals - Making Decisions →](./10-conditionals.md)**
+**[← Previous: Hashes - Smart Dictionaries](../01-beginner/08-hashes.md)** | **[Next: Conditionals - Making Decisions →](./10-conditionals.md)**
 
 ---
 

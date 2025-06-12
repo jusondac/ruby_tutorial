@@ -1,6 +1,6 @@
 # Chapter 20: Testing Your Code - Making Sure Spells Work 🧪
 
-[← Previous: Gems and Libraries](./19-gems.md) | [Next: Introduction to Metaprogramming →](./21-metaprogramming-intro.md)
+[← Previous: Gems and Libraries](./19-gems.md) | [Next: Introduction to Metaprogramming →](../04-master/21-metaprogramming-intro.md)
 
 ## What is Testing? 🤔
 
@@ -819,4 +819,4 @@ ruby test_file.rb -v  # verbose
 
 Remember: Tests are like safety nets for tightrope walkers - they let you make bold moves with confidence! 🎪🛡️
 
-[← Previous: Gems and Libraries](./19-gems.md) | [Next: Introduction to Metaprogramming →](./21-metaprogramming-intro.md)
+[← Previous: Gems and Libraries](./19-gems.md) | [Next: Introduction to Metaprogramming →](../04-master/21-metaprogramming-intro.md)
