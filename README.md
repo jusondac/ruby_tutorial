@@ -19,6 +19,7 @@ Navigate to [`01-beginner/`](./01-beginner/) folder for these chapters:
 
 ### 🎯 Intermediate Level
 Navigate to [`02-intermediate/`](./02-intermediate/) folder for these chapters:
+
 9. [Chapter 9: Methods - Your Own Commands](./02-intermediate/09-methods.md) - Creating your own spells
 10. [Chapter 10: Conditionals - Making Decisions](./02-intermediate/10-conditionals.md) - If this, then that
 11. [Chapter 11: Loops - Doing Things Again](./02-intermediate/11-loops.md) - Repeating magic
@@ -29,6 +30,7 @@ Navigate to [`02-intermediate/`](./02-intermediate/) folder for these chapters:
 
 ### 🔥 Advanced Level
 Navigate to [`03-advanced/`](./03-advanced/) folder for these chapters:
+
 16. [Chapter 16: File Operations](./03-advanced/16-file-operations.md) - Reading and writing files
 17. [Chapter 17: Error Handling](./03-advanced/17-error-handling.md) - When things go wrong
 18. [Chapter 18: Regular Expressions](./03-advanced/18-regex.md) - Pattern hunting
@@ -37,6 +39,7 @@ Navigate to [`03-advanced/`](./03-advanced/) folder for these chapters:
 
 ### 🧙‍♂️ Master Level - Metaprogramming
 Navigate to [`04-master/`](./04-master/) folder for these chapters:
+
 21. [Chapter 21: Introduction to Metaprogramming](./04-master/21-metaprogramming-intro.md) - Code that writes code
 22. [Chapter 22: Dynamic Methods](./04-master/22-dynamic-methods.md) - Creating methods on the fly
 23. [Chapter 23: eval and send](./04-master/23-eval-send.md) - Running code from strings
